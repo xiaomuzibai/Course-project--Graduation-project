@@ -20,4 +20,4 @@
 
 ## 许可证
 
-MIT
+MIT license
